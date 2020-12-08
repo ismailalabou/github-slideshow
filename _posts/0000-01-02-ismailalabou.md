@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+code like a boss :sunglasses:
 Use the left arrow to go back!
